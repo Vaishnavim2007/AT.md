@@ -10,6 +10,7 @@ METHODS: <br/>
 •Receive and analyze subsequent hints, using them to guide further command entries and flag retrieval.<br/>
 WHAT I LEARNED: <br/>
 •Were able to know about AT commands and became familiar with many commands <br/>
+Usually AT commands are used to communicate and control modems <br/>
 •We will learn how to use PuTTY to establish a serial connection with a microcontroller <br/>
 •Also we will understand how to open and manage a serial connection to communicate with a microcontroller. This involves sending commands and receiving responses via the serial interface<br/>
 
