@@ -1,5 +1,5 @@
 # **Embedded**
-#**AT** <br/>
+**AT** <br/>
 METHODS: <br/>
 •Connect the microcontroller to the laptop and open PuTTY and configure the connection settings <br/>
           Connection type: Serial <br/>
